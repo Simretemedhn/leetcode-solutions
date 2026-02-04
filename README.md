@@ -5,4 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2652-sum-multiples](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2652-sum-multiples) |
+## Array
+|  |
+| ------- |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+## Hash Table
+|  |
+| ------- |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+## Prefix Sum
+|  |
+| ------- |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 <!---LeetCode Topics End-->
