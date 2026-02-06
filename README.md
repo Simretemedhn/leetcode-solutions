@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Matrix
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0811-subdomain-visit-count](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 <!---LeetCode Topics End-->
