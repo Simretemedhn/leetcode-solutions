@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0268-missing-number) |
+| [1025-divisor-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2652-sum-multiples](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -90,5 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1025-divisor-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
