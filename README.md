@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0067-add-binary) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0811-subdomain-visit-count](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0811-subdomain-visit-count) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Game Theory
