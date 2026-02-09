@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0136-single-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0217-contains-duplicate) |
