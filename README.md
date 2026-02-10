@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0811-subdomain-visit-count](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0811-subdomain-visit-count) |
