@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0498-diagonal-traverse](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0661-image-smoother](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0811-subdomain-visit-count](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0811-subdomain-visit-count) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0661-image-smoother) |
 | [1672-richest-customer-wealth](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## String
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
