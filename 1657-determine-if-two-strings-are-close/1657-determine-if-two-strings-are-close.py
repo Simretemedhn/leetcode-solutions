@@ -8,12 +8,8 @@ class Solution:
         for char2 in word2:
             char_map2[char2] = char_map2.get(char2, 0) + 1
 
-
-
-        char_map1_sum = sum(char_map1.values())
-        char_map2_sum = sum(char_map2.values())
         if (sorted(char_map1) == sorted(char_map2)) and (sorted(char_map1.values()) == sorted(char_map2.values())):
-            return char_map1_sum == char_map2_sum
+            return True 
         else:
             return False 
         
