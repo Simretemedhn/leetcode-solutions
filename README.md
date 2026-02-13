@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Simretemedhn/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3527-find-the-most-common-response](https://github.com/Simretemedhn/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
