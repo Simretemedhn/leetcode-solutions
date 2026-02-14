@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0661-image-smoother](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0811-subdomain-visit-count](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0811-subdomain-visit-count) |
+| [0832-flipping-an-image](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0877-stone-game) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2460-apply-operations-to-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [2460-apply-operations-to-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
 |  |
