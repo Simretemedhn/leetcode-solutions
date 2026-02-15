@@ -6,6 +6,7 @@ class Solution:
             for y in ranges:
                 if y[0] <= x and x<=y[1]:
                     flag = True 
+                    break
 
             if flag == False:
                 return False 
