@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0885-spiral-matrix-iii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [1672-richest-customer-wealth](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## String
 |  |
 | ------- |
