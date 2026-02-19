@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2469-convert-the-temperature](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2469-convert-the-temperature) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-shuffle-string](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1672-richest-customer-wealth](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2418-sort-the-people](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Dynamic Programming
 |  |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0179-largest-number) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
 ## Union-Find
 |  |
