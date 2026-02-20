@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0136-single-number) |
