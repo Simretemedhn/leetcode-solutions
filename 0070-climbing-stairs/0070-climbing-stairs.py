@@ -4,13 +4,9 @@ class Solution:
             return 1
         if n == 2:
             return 2
-        
-        ways = [0] * (n + 1)
-        ways[1] = 1
-        ways[2] = 2
-        
-        for step in range(3, n + 1):
-            ways[step] = ways[step - 1] + ways[step - 2]
-        
-        return ways[n]
+        collec = [1, 2]
+        for x in range(3, n+1):
+            collec.append(collec[-2] + collec[-1])
+            
+        return collec[-1]
         
