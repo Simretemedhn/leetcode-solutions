@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
