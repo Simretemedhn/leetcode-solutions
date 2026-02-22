@@ -1,12 +1,12 @@
 from collections import Counter 
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:   
-        t_map = Counter(t)
+        t_sorted = sorted(t)
+        s_sorted = sorted(s)
 
-        for char in s:
-            t_map[char] -= 1
+        for i in range(len(s_sorted)):
+            if t_sorted[i] != s_sorted[i]:
+                return t_sorted[i]
+        return t_sorted[-1]
 
-        for char, freq in t_map.items():
-            if freq == 1:
-                return char 
 
