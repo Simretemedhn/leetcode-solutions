@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0763-partition-labels](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0722-remove-comments](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0722-remove-comments) |
+| [0763-partition-labels](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0811-subdomain-visit-count) |
 | [1108-defanging-an-ip-address](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0763-partition-labels](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0969-pancake-sorting) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0763-partition-labels](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
