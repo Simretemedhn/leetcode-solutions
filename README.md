@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0722-remove-comments) |
 | [0811-subdomain-visit-count](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0811-subdomain-visit-count) |
@@ -335,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
