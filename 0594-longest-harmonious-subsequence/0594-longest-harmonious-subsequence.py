@@ -1,20 +1,9 @@
-from collections import defaultdict, Counter 
 class Solution:
     def findLHS(self, nums: List[int]) -> int:
-
-        c = defaultdict(int)
-
-        for num in nums:
-            c[(num, num+1)] += 1
-            c[(num-1, num)] += 1
-
-        Set = set(nums)
-
-        output = 0
-        for k, v in c.items():
-            if k[0] in Set and k[1] in Set:
-                output = max(output, v)
-
-        return output 
-
+        freq = Counter(nums)
+        max_len = 0
+        for num in freq:
+            if num + 1 in freq:
+                max_len = max(max_len, freq[num] + freq[num + 1])
+        return max_len                    
         
