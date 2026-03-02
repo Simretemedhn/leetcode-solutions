@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1652-defuse-the-bomb](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1652-defuse-the-bomb](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
