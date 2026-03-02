@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2469-convert-the-temperature](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1528-shuffle-string](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2418-sort-the-people](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Simretemedhn/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/Simretemedhn/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Backtracking
 |  |
 | ------- |
