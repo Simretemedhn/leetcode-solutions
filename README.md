@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2381-shifting-letters-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2381-shifting-letters-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2381-shifting-letters-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2381-shifting-letters-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Simretemedhn/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/Simretemedhn/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
