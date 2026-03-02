@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Simretemedhn/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3527-find-the-most-common-response](https://github.com/Simretemedhn/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Backtracking
 |  |
 | ------- |
