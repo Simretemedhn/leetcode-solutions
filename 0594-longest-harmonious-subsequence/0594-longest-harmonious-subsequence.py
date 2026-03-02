@@ -1,32 +1,20 @@
-from collections import Counter
-
+from collections import defaultdict, Counter 
 class Solution:
     def findLHS(self, nums: List[int]) -> int:
 
-        sorted_nums = dict(sorted(Counter(nums).items()))
+        c = defaultdict(int)
 
-        firs_elem = min(nums)
-        elems = []
-        freqs = []
-        max_ = 0
-        for key,freq in sorted_nums.items():
-            elems.append(key)
-            freqs.append(freq)
+        for num in nums:
+            c[(num, num+1)] += 1
+            c[(num-1, num)] += 1
 
-        for i in range(1, len(set(nums))):
-            if elems[i] - elems[i-1] == 1:
-                max_ = max(max_, freqs[i] + freqs[i-1])  
-        return max_ 
+        Set = set(nums)
 
-"""        
-        count = 0
-        left = 0
-        for right in range(1, len(nums)):
-            if nums[right]-nums[left] > 1:
-                left += 1
-            else:
-"""
+        output = 0
+        for k, v in c.items():
+            if k[0] in Set and k[1] in Set:
+                output = max(output, v)
 
-
+        return output 
 
         
