@@ -8,20 +8,13 @@ class Solution:
         dummy = ListNode(0)
         last = dummy
         curr1, curr2 = list1, list2 
-        final = False 
 
         while curr1 and curr2:
             if curr1.val <= curr2.val:
-                if not final:
-                    final_head = curr1
-                    final = True 
                 dummy.next = curr1
                 dummy = curr1
                 curr1 = curr1.next
             else:
-                if not final:
-                    final_head = curr2
-                    final = True 
                 dummy.next = curr2
                 dummy = curr2
                 curr2 = curr2.next
