@@ -21,6 +21,14 @@ class DataStream:
                 self.count -= 1
         return self.count == self.k
 
+""" or shortly using counter without the concept of queue 
+def consec(self, num: int) -> bool:
+    if num == self.value:
+        self.count += 1
+    else:
+        self.count = 0
+    return self.count >= self.k """
+
 
         
 
