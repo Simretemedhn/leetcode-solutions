@@ -2,12 +2,29 @@ class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
         # stack
         # stay in the stack until a bigger element is found
+
+        num_map = {n:i for i, n in enumerate(nums1)}
+        res = [-1] * len(nums1)    
+
+        stack = []    
+        for i in range(len(nums2)):
+            curr = nums2[i]
+            while stack and curr > stack[-1]:
+                val = stack.pop()
+                ind = num_map[val]
+                res[ind] = curr
+
+            if curr in num_map:
+                stack.append(curr)
+        return res 
+
+        #or 
         num_map = {n:i for i, n in enumerate(nums1)}
         res = [-1] * len(nums1)
 
         for i in range(len(nums2)):
             if nums2[i] not in num_map:
-                continue     
+                continue                        
             for j in range(i+1, len(nums2)):
                 if nums2[j] > nums2[i]:
                     ind = num_map[nums2[i]]
@@ -15,6 +32,7 @@ class Solution:
                     break 
         return res 
 
+        # or 
         stack = []
         greater = defaultdict(lambda : -1)
 
