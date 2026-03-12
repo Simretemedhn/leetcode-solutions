@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0722-remove-comments) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0763-partition-labels](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0969-pancake-sorting) |
