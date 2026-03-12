@@ -13,13 +13,19 @@ class Solution:
             stack_i.append(i) 
         return res 
 
+        #or 
+        stack = []     
+        res = [0] * len(nums)
 
-
-
-
-
-
-
+        for i, n in enumerate(nums):
+            while stack and nums[stack[-1]] < n:
+                prev_index = stack.pop()
+                res[prev_index] = i - prev_index
+            stack.append(i)
+        
+        return res 
+        
+        #or 
 
         stack = []
         n = len(nums)
