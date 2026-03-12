@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0560-subarray-sum-equals-k](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0506-relative-ranks](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0561-array-partition](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0791-custom-sort-string](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0561-array-partition](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0561-array-partition) |
 | [0763-partition-labels](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0969-pancake-sorting) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Design
 |  |
