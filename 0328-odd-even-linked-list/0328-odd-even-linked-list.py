@@ -24,30 +24,23 @@ class Solution:
         curr.next = odd.next
 
         return head 
-"""
+"""or shortly 
 class Solution:
     def oddEvenList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head or not head.next:
-            return head 
-            
-        curr = head
-        odd = ListNode(0)  
-        odd_ = odd
-
-        while curr and curr.next:
-            odd_.next = curr.next
-            odd_ = odd_.next
-            
-            curr.next = curr.next.next
-            curr = curr.next
-            
-            odd_.next = None
+            return head
         
-        curr = head
-        while curr.next:
-            curr = curr.next
-        curr.next = odd.next
+        odd = head
+        even = head.next
+        even_head = even
         
+        while even and even.next:
+            odd.next = even.next
+            odd = odd.next
+            even.next = odd.next
+            even = even.next
+        
+        odd.next = even_head
         return head
 
 """
