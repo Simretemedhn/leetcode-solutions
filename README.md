@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
