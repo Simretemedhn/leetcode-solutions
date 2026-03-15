@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0598-range-addition-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0781-rabbits-in-forest](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1025-divisor-game) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0722-remove-comments) |
 | [0739-daily-temperatures](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0781-rabbits-in-forest](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 | [0811-subdomain-visit-count](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0811-subdomain-visit-count) |
 | [0832-flipping-an-image](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0763-partition-labels](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0781-rabbits-in-forest](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0811-subdomain-visit-count) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0763-partition-labels](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0781-rabbits-in-forest](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 | [0881-boats-to-save-people](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
