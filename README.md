@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2469-convert-the-temperature](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2381-shifting-letters-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 ## Union-Find
 |  |
 | ------- |
