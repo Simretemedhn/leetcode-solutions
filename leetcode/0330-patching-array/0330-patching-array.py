@@ -22,3 +22,22 @@ class Solution:
                 cover += 1
                 total += cover
         return patch 
+
+#or simply 
+"""
+class Solution:
+    def minPatches(self, nums: List[int], n: int) -> int:
+        patches = 0
+        miss = 1  
+        i = 0
+        
+        while miss <= n:
+            if i < len(nums) and nums[i] <= miss:
+                miss += nums[i]
+                i += 1
+            else:
+                patches += 1
+                miss += miss 
+        
+        return patches
+"""
