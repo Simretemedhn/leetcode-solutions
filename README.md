@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1922-count-good-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -496,11 +498,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
