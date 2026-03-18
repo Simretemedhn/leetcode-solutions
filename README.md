@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -528,4 +529,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
