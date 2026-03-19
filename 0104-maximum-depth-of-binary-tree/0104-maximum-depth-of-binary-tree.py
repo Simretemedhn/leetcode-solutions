@@ -4,17 +4,31 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
+# or 
+"""
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
-        if not root: return 0
-        stack = [(root, 1)] 
-        max_ = 1
+        if not root:
+            return 0
+        return 1 + max(self.maxDepth(root.left), self.maxDepth(root.right))
+""" 
+
+class Solution:
+    def maxDepth(self, root: Optional[TreeNode]) -> int:
+        if not root:
+            return 0
+
+        stack = [(root, 1)]
+        max_depth = 1
 
         while stack:
-            parent = stack.pop()
-            if parent[0].left: stack.append((parent[0].left, parent[1]+1))
-            max_ = max(max_, parent[1])
-            if parent[0].right: stack.append((parent[0].right, parent[1]+1)) 
-            max_ = max(max_, parent[1])
+            node, depth = stack.pop()
+            max_depth = max(max_depth, depth)
+            
+            if node.left:
+                stack.append((node.left, depth + 1))
+            if node.right:
+                stack.append((node.right, depth + 1))
         
-        return max_
+        return max_depth
