@@ -10,31 +10,9 @@ class Solution:
         if not root:
             return TreeNode(val)
         
-        curr = root
-        new_node = TreeNode(val)
-        
-        while True: 
-            if curr.val > val:
-                if curr.left is None:  
-                    curr.left = new_node
-                    break
-                curr = curr.left  
-            else:
-                if curr.right is None: 
-                    curr.right = new_node
-                    break
-                curr = curr.right  
+        if val < root.val:
+            root.left = self.insertIntoBST(root.left, val)
+        else:
+            root.right = self.insertIntoBST(root.right, val)
         
         return root
-"""
-        res = []
-
-        q = deque([root])
-
-        while q:
-            node = q.popleft()
-            res.append(node.val)
-            if node.left: q.append(node.left)
-            if node.right: q.append(node.right)
-        return res """
-
