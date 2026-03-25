@@ -1,21 +1,23 @@
 class Solution:
     def decodeString(self, s: str) -> str:
-        stack = []
-
-
-        for i in range(len(s)):
-            if s[i] != "]":
-                stack.append(s[i])
+        def helper(i):
+            result = ""
+            num = 0
             
-            else:
-                substring = ""
-                while stack and stack[-1] != "[":
-                    substring = stack.pop() + substring
-                stack.pop() 
-
-                k = ""
-                while stack and stack[-1].isdigit():
-                    k = stack.pop() + k 
-                stack.append(int(k) * substring)
-                
-        return "".join(stack)
+            while i < len(s):
+                if s[i].isdigit():
+                    num = num * 10 + int(s[i])
+                elif s[i] == '[':
+                    # Recursively decode the inner string
+                    substring, i = helper(i + 1)
+                    result += num * substring
+                    num = 0  # Reset num for next encoding
+                elif s[i] == ']':
+                    return result, i
+                else:
+                    result += s[i]
+                i += 1
+            
+            return result
+        
+        return helper(0)      
