@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0290-word-pattern) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0131-palindrome-partitioning](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0877-stone-game) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Linked List
 |  |
 | ------- |
