@@ -1,30 +1,26 @@
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
-        if not digits:
-            return []
+        phone_map = {"2": "abc",
+                    "3": "def",
+                    "4": "ghi",
+                    "5": "jkl",
+                    "6": "mno",
+                    "7": "pqrs",
+                    "8": "tuv",
+                    "9": "wxyz",
+                    "0": "-",
+                    "*": "+",
+                    "#": ""} 
+        res, part = [], []
 
-        # Hashmap
-        phone = {
-            '2': 'abc',
-            '3': 'def',
-            '4': 'ghi',
-            '5': 'jkl',
-            '6': 'mno',
-            '7': 'pqrs',
-            '8': 'tuv',
-            '9': 'wxyz'
-        }
+        def backtrack(i, part):
+            if len(part) == len(digits):
+                res.append(part[::])
+                return 
+            
+            for c in phone_map[digits[i]]:
+                backtrack(i+1, part+c)
+        backtrack(0, "")
 
-        result = ['']
-        for digit in digits:
-            letters = phone[digit]
-            new_result = []
-            for combo in result:
-                for letter in letters:
-                    new_result.append(combo + letter)
-            result = new_result
-
-        return result
-
-
-
+        return res 
+    
