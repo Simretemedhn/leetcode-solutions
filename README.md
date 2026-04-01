@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -655,4 +656,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
