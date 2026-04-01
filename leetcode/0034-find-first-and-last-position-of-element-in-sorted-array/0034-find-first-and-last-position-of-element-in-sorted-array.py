@@ -1,35 +1,39 @@
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        low =0
-        high = len(nums) -1 
-        res = []
-        if len(nums) == 0:
+        if not nums:
             return [-1, -1]
-        starting_left = 0
-        ending_right = 0
-
-        while low <= high:       
-            mid = (low + high)//2 
-            if nums[mid] < target:
-                low = mid + 1
-            elif nums[mid] > target:
-                high = mid - 1 
-            else:
-                starting_left = low                                  
-                ending_right = high
-                break 
-                   
-        while starting_left <= mid:
-            if nums[starting_left] == target:
-                res.append(starting_left)
-                break 
-            starting_left += 1 
-        while ending_right >= mid:
-            if nums[ending_right] == target:
-                res.append(ending_right)
-                break  
-            ending_right -= 1 
-        if res:
-            return res 
-        return [-1, -1]
+        def find_left(nums, target):
+            left = 0 
+            right = len(nums) - 1
+            ind = -1 
+            while left <= right:
+                mid = left + (right-left)//2
+                if nums[mid] == target:
+                    ind = mid 
+                    right = mid - 1 
+                elif nums[mid] > target:
+                    right  = mid - 1 
+                else:
+                    left = mid + 1 
+            return ind 
         
+        def find_right(nums, target):
+            left = 0 
+            right  = len(nums) - 1 
+            ind = -1 
+
+            while left <= right:
+                mid  = left + (right - left) // 2 
+                if nums[mid] == target:
+                    ind = mid 
+                    left = mid + 1
+                elif nums[mid] > target:
+                    right = mid - 1 
+                else:
+                    left = mid + 1 
+            return ind 
+
+        first  = find_left(nums, target)
+        second = find_right(nums, target)
+        return [first, second]
+
