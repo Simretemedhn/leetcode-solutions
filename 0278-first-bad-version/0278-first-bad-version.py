@@ -3,33 +3,15 @@
 
 class Solution:
     def firstBadVersion(self, n: int) -> int:
-        if n % 2 != 0:
-            half = (n+1)//2 
-        else:
-            half = n//2 
-        
-        if isBadVersion(half):
-            half += 1
-            while isBadVersion(half):
-                half += 1
-            return half 
-        
-        else:
-            while not isBadVersion(half):
-                half -= 1
-            return half + 1
-class Solution:
-    def firstBadVersion(self, n: int) -> int:
-        left, right = 1, n
-        
-        while left < right:
-            mid = left + (right - left) // 2
-            
-            if isBadVersion(mid):
-                # If mid is bad, first bad is at mid or before
-                right = mid
+        left = 1 
+        right = n
+        res = 0
+
+        while left <= right:
+            mid  = (left + right)//2 
+            if not isBadVersion(mid):
+                left = mid + 1 
             else:
-                # If mid is good, first bad is after mid
-                left = mid + 1
-        
-        return left
+                res = mid 
+                right = mid - 1 
+        return res 
