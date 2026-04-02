@@ -12,3 +12,14 @@ class Solution:
             return [start, end]
         else:
             return [-1, -1]
+
+"""
+
+    left = bisect_left(nums, target)
+    right = bisect_right(nums, target) - 1
+    
+    if left <= right and left < len(nums) and nums[left] == target:
+        return [left, right]
+    else:
+        return [-1, -1]
+"""
