@@ -1,5 +1,24 @@
 class Solution:
     def hIndex(self, citations: List[int]) -> int:
+        citations.sort()
+        n = len(citations)
+        
+        left, right = 0, n - 1
+        res = 0
+        
+        while left <= right:
+            mid = (left + right) // 2
+            
+            if citations[mid] >= n - mid:
+                res = n - mid
+                right = mid - 1
+            else:
+                left = mid + 1
+        
+        return res
+"""
+class Solution:
+    def hIndex(self, citations: List[int]) -> int:
         n = len(citations)
         left, right = 0, n - 1
         res = 0
@@ -16,11 +35,8 @@ class Solution:
                 left = mid + 1  
         
         return res   
-        
-"""
-        if n == 1 and citations[0] > 0:
-            return 1
 
+or 
 class Solution:
     def hIndex(self, citations: List[int]) -> int:
         n = len(citations)
