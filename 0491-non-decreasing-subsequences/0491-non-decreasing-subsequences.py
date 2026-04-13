@@ -1,40 +1,17 @@
 class Solution:
     def findSubsequences(self, nums: List[int]) -> List[List[int]]:
-        
-        def helper(ind, prev, path, res):
-            if len(path) >= 2:
-                res.append(path[::])
-            if ind >= len(nums):  
+
+        def helper(i, subseq):
+            if i == len(nums):
+                if len(subseq) >= 2:
+                    self.res.add(tuple(subseq))
                 return 
             
-            used = set() 
-            for i in range(ind, len(nums)):
-                if prev <= nums[i] and nums[i] not in used: 
-                    used.add(nums[i])  
-                    path.append(nums[i])
-                    helper(i + 1, nums[i], path, res)
-                    path.pop()
-
-            return res 
-        return helper(0, -101, [], [])
-        
-""" first trial 
-class Solution:
-    def findSubsequences(self, nums: List[int]) -> List[List[int]]:
-        
-        def helper(ind, prev, path,  res):
-            if len(path) >= 2:
-                res.append(path[::])
-            if ind >= len(nums) - 1:
-                return 
+            if not subseq or subseq[-1] <= nums[i]:
+                helper(i + 1, subseq + [nums[i]])
             
-            for i in range(ind, len(nums)):
-                if prev <= nums[i]:
-                    path.append(nums[i])
-                    helper(i + 1, nums[i], path, res)
-                    path.pop()
-
-            return res 
-        return helper(0, -101, [], [])
-
-"""
+            helper(i+1, subseq)
+        
+        self.res = set()
+        helper(0, [])
+        return [list(x) for x in self.res]  
