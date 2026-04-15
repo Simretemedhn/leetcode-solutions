@@ -1,11 +1,18 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        for i in range(len(nums)):
-            while nums[i] != i and nums[i] < len(nums):
-                nums[nums[i]], nums[i] = nums[i], nums[nums[i]]
+        n = len(nums)
+        i = 0
+        
+        while i < n:
+            correct_pos = nums[i]
+            if correct_pos < n and nums[i] != nums[correct_pos]:
+                nums[i], nums[correct_pos] = nums[correct_pos], nums[i]
+            else:
+                i += 1
+        
+        for i in range(n):
+            if nums[i] != i:
+                return i
+        
+        return n
 
-
-        for i in range(len(nums)):
-            if i != nums[i]:
-                return i 
-        return len(nums)
