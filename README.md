@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0330-patching-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0330-patching-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0832-flipping-an-image](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
