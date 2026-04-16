@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1598-crawler-log-folder](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1598-crawler-log-folder) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
 | [1652-defuse-the-bomb](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Bit Manipulation
 |  |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -715,4 +719,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
+## Segment Tree
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
+## Merge Sort
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
 <!---LeetCode Topics End-->
