@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0202-happy-number) |
