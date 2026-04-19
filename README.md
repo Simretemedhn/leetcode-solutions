@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0330-patching-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
 ## Monotonic Queue
@@ -731,13 +735,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
 <!---LeetCode Topics End-->
