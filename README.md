@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0437-path-sum-iii) |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
