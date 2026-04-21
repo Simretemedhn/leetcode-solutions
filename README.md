@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0441-arranging-coins](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
