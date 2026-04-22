@@ -1,29 +1,27 @@
-
-from collections import defaultdict
-from typing import List
-
+from collections import defaultdict 
 class Solution:
     def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
         graph = defaultdict(list)
+        for src, dst in edges:
+            graph[src].append(dst)
+            graph[dst].append(src)
 
-        for u, v in edges:
-            graph[u].append(v)
-            graph[v].append(u)
+
+
 
         visited = set()
-        stack = [source]
-
-        while stack:
-            node = stack.pop()
-
+        def dfs(node):
+            nonlocal visited 
             if node == destination:
-                return True
+                return True 
+            
+            visited.add(node)
+            for nei in graph[node]:
+                if nei not in visited:
+                    if dfs(nei):
+                        return True 
+            return False 
 
-            if node not in visited:
-                visited.add(node)
-
-                for neighbor in graph[node]:
-                    if neighbor not in visited:
-                        stack.append(neighbor)
-
-        return False
+        return dfs(source) 
+            
+            
