@@ -8,25 +8,19 @@ class Employee:
 """
 
 class Solution:
-    def getImportance(self, employees: List['Employee'], id: int) -> int: 
+    def getImportance(self, employees: List['Employee'], id: int) -> int:
         graph = {emp.id: [emp.importance, emp.subordinates] for emp in employees}
-
-        stack = [id]
-
-        visited = set()
         total = 0
-        while stack:
-            vertex = stack.pop()
-            if vertex not in visited:
-                total += graph[vertex][0]
-                visited.add(vertex)
+        visited = set()
+        def dfs(node):
+            nonlocal total, visited
+            total += graph[node][0]
+            visited.add(node)
 
 
+            for nei in graph[node][1]:
+                if nei not in visited:
+                    dfs(nei)
 
-            for nei in graph[vertex][1]:
-                stack.append(nei)
+        dfs(id)
         return total 
-
-
-
-        
