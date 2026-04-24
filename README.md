@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1922-count-good-numbers](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1922-count-good-numbers) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2305-fair-distribution-of-cookies](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -827,4 +831,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
