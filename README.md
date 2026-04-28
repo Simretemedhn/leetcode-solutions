@@ -717,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0965-univalued-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
@@ -774,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0965-univalued-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
