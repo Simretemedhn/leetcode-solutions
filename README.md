@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1162-as-far-from-land-as-possible](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1162-as-far-from-land-as-possible](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [2305-fair-distribution-of-cookies](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Brainteaser
 |  |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1162-as-far-from-land-as-possible](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1765-map-of-highest-peak](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
