@@ -781,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0965-univalued-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -851,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Geometry
