@@ -11,7 +11,6 @@ class Solution:
                 if mat[r][c] == 0:
                     q.append((r, c, 0))  
                     visited.add((r, c))      
-        
         direction = [(1, 0), (0, 1), (-1, 0), (0, -1)]
 
 
@@ -23,8 +22,7 @@ class Solution:
                 
                 if 0 <= new_r < row and 0 <= new_c < col:
                     if (new_r, new_c) not in visited:
-                        if mat[new_r][new_c] == 1:
-                            answer[new_r][new_c] = length + 1  
+                        answer[new_r][new_c] = length + 1  
                         visited.add((new_r, new_c))
                         q.append((new_r, new_c, length + 1))
         
