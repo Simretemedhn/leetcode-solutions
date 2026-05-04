@@ -4,24 +4,20 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
-
 class Solution:
     def isUnivalTree(self, root: Optional[TreeNode]) -> bool:
         if not root:
-            return True
-            
-        q = deque([root])  
-        target_val = root.val
-        
+            return True 
+        value = root.val 
+        q = deque()
+        q.append(root)
+
         while q:
-            node = q.popleft()  
-            if node.val != target_val:
-                return False
-                
+            node = q.popleft()
+            if node and node.val != value:
+                return False 
             if node.left:
                 q.append(node.left)
             if node.right:
                 q.append(node.right)
-                
-        return True
+        return True 
