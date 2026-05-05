@@ -1,18 +1,15 @@
 class Solution:
     def canVisitAllRooms(self, rooms: List[List[int]]) -> bool:
-
-        visited = set()
         q = deque()
         q.append(0)
+        visited = set()
         visited.add(0)
 
         while q:
-            vertix = q.popleft()
+            room = q.popleft()
 
-            for nei in rooms[vertix]:
+            for nei in rooms[room]:
                 if nei not in visited:
                     visited.add(nei)
                     q.append(nei)
         return len(visited) == len(rooms)
-        
-        
