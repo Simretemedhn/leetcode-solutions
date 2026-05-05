@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1162-as-far-from-land-as-possible](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0909-snakes-and-ladders](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -799,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 | [0965-univalued-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1162-as-far-from-land-as-possible](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
