@@ -774,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1462-course-schedule-iv](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1162-as-far-from-land-as-possible](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1462-course-schedule-iv](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1765-map-of-highest-peak](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0851-loud-and-rich) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1462-course-schedule-iv](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2050-parallel-courses-iii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2050-parallel-courses-iii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -921,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0851-loud-and-rich](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0851-loud-and-rich) |
+| [1462-course-schedule-iv](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [2050-parallel-courses-iii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2050-parallel-courses-iii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
