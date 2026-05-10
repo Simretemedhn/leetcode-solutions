@@ -1,22 +1,32 @@
-from collections import defaultdict, deque 
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        indegree = [0] * numCourses 
         graph = defaultdict(list)
+        for course, prereq in prerequisites:
+            graph[prereq].append(course)
         
-        for src, dst in prerequisites:
-            graph[dst].append(src)
-            indegree[src] += 1 
 
-        q = deque([i for i in range(numCourses) if indegree[i] == 0])
-
+        # state = 0 = unvisited, 1 = currently processing, 2 = already proceeced 
         answer = []
-        while q:
-            node  = q.popleft()
-            answer.append(node)
+        state = [0] * numCourses
+        def dfs(course):
 
-            for nei in graph[node]:
-                indegree[nei] -= 1 
-                if indegree[nei] == 0:
-                    q.append(nei)
-        return answer if len(answer) == numCourses else []
+            #cycle exist 
+            if state[course] == 1:
+                return False 
+            elif state[course] == 2:
+                return True 
+            
+            state[course] = 1 
+            for nei in graph[course]:
+                if not dfs(nei):
+                    return False 
+            
+            state[course] = 2
+            answer.append(course) 
+            return True 
+
+
+        for course in range(numCourses):
+            if not dfs(course):
+                return []
+        return answer[::-1]
