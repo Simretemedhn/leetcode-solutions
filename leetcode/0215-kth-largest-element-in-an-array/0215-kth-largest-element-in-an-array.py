@@ -1,41 +1,28 @@
+import heapq
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
         
-        def divide(arr, k):
-            if len(arr) == 1:
-                return arr[0]
+        def heap_down(arr, n, i):
+            largest = i
+            left = 2 * i + 1
+            right = 2 * i + 2
             
-            pivot = arr[0]
+            if left < n and arr[left] > arr[largest]:
+                largest = left
+            if right < n and arr[right] > arr[largest]:
+                largest = right
             
-            left = [x for x in arr if x < pivot]
-            mid = [x for x in arr if x == pivot]
-            right = [x for x in arr if x > pivot]
-            
-            if k <= len(right):
-                return divide(right, k)
-            elif k <= len(right) + len(mid):
-                return pivot
-            else:
-                return divide(left, k - len(right) - len(mid))
+            if largest != i:
+                arr[i], arr[largest] = arr[largest], arr[i]
+                heap_down(arr, n, largest)
         
-        return divide(nums, k)
-"""class Solution:
-    def findKthLargest(self, nums: List[int], k: int) -> int:
-
-        # quick sort
-        def divide(arr):
-            if len(arr) <= 1:
-                return arr[0]
-            pivot = arr[0]
-
-            l = [x for x in arr[1:] if x <= pivot]
-            r = [x for x in arr[1:] if x > pivot]
-
-            if k == len(r)+1:
-                return pivot
-            elif k <= len(r):
-                return divide(r)
-            else:
-                return divide(l)
-        return divide(nums)
-"""
+        n = len(nums)
+        
+        for i in range(n // 2 - 1, -1, -1):
+            heap_down(nums, n, i) 
+        
+        for i in range(n - 1, n - k, -1):  
+            nums[0], nums[i] = nums[i], nums[0]
+            heap_down(nums, i, 0) 
+        
+        return nums[0]
