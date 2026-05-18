@@ -2,27 +2,63 @@ from heapq import heappush, heappop
 
 class Solution:
     def getOrder(self, tasks: List[List[int]]) -> List[int]:
-        indexed_tasks = [(enqueue, process, idx) for idx, (enqueue, process) in enumerate(tasks)]
-        indexed_tasks.sort()
+        new = []
+        for i in range(len(tasks)):
+            start, process = tasks[i]
+            new.append([start, process, i])
         
-        result = []
+        new.sort(key=lambda x: x[0])
+        
+        current_time = new[0][0]  
         min_heap = []
-        time = 0
-        task_index = 0
-        n = len(tasks)
+        idx = 0  
+        result = []
         
-        while task_index < n or min_heap:
-            while task_index < n and indexed_tasks[task_index][0] <= time:
-                enqueue, process, idx = indexed_tasks[task_index]
-                heappush(min_heap, (process, idx))
-                task_index += 1
+        while len(result) < len(tasks):
+            while idx < len(new) and new[idx][0] <= current_time:
+                heappush(min_heap, (new[idx][1], new[idx][2]))  
+                idx += 1
             
             if not min_heap:
-                time = indexed_tasks[task_index][0]
+                current_time = new[idx][0]
                 continue
             
-            process_time, idx = heappop(min_heap)
-            result.append(idx)
-            time += process_time
+            processing_time, original_index = heappop(min_heap)
+            result.append(original_index)
+            
+            current_time += processing_time
         
         return result
+
+""" first trial 
+from heapq import heappush, heappop
+class Solution:
+    def getOrder(self, tasks: List[List[int]]) -> List[int]:
+
+        new = []
+        for i in range(len(tasks)):
+            start, process = tasks[i]
+            new.append([start, process, i]) 
+        new.sort(key=lambda x: x[0])
+
+        start = new[0][0]
+        min_heap = []
+        last_index_added = 0 
+        for task in new:
+            if task[0] == start:
+                heappush(min_heap, (task[1], task[2])) 
+                last_index_added = task[2] + 1 
+        
+        result = []
+        while len(result) < len(tasks):
+            #let allow cpu to work 
+            processing_time, ind = heappop(min_heap)
+            result.append(ind)  
+            total_waiting_time =  start + processing_time
+            for i in range(last_index_added, len(tasks)):
+                if new[i][0] <= total_waiting_time:
+                    heappush(min_heap, (task[1], task[2]))
+                    last_index_added = task[2] + 1  
+                else:
+                    break 
+        return result """
