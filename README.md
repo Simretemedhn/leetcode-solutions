@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0704-binary-search) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0498-diagonal-traverse) |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
