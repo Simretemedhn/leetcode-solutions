@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0877-stone-game) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [0976-largest-perimeter-triangle](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0885-spiral-matrix-iii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0909-snakes-and-ladders](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [0969-pancake-sorting](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0969-pancake-sorting) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0811-subdomain-visit-count) |
 | [0815-bus-routes](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0815-bus-routes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Counting Sort
 |  |
@@ -971,4 +975,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-parallel-courses-iii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2050-parallel-courses-iii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
+## Number Theory
+|  |
+| ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0952-largest-component-size-by-common-factor) |
 <!---LeetCode Topics End-->
