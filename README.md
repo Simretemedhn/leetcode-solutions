@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2460-apply-operations-to-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2540-minimum-common-value](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+| [2540-minimum-common-value](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2671-frequency-tracker](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2671-frequency-tracker) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Simretemedhn/leetcode-solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1649-create-sorted-array-through-instructions](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2426-number-of-pairs-satisfying-inequality) |
+| [2540-minimum-common-value](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2460-apply-operations-to-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2540-minimum-common-value](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
