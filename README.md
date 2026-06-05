@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0952-largest-component-size-by-common-factor) |
+| [0973-k-closest-points-to-origin](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [0969-pancake-sorting](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
+| [0973-k-closest-points-to-origin](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1649-create-sorted-array-through-instructions) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Heap (Priority Queue)
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -571,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -980,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Topological Sort
 |  |
