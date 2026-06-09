@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1834-single-threaded-cpu](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Union-Find
