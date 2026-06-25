@@ -1,19 +1,20 @@
 class Solution:
     def imageSmoother(self, img: List[List[int]]) -> List[List[int]]:
-        row_len = len(img)
-        col_len = len(img[0])
+        all_row = len(img)
+        all_col = len(img[0])
+        new = [[0]* all_col for _ in range(all_row)]
+
+        for row in range(all_row):
+            for col in range(all_col):
+                count = 0 
+                sum_ = 0 
+                for r in range(row-1, row +2, 1):
+                    if r >= 0 and r < all_row:
+                        for c in range(col-1, col+2, 1):
+                            if c >=0 and c < all_col:
+                                count += 1 
+                                sum_ += img[r][c]
+                avg = sum_ // count 
+                new[row][col] = avg
+        return new 
         
-        new = [[0]* col_len for row in range(row_len)]
-
-        for row in range(row_len):
-            for col in range(col_len):
-                count = 0
-                summ = 0
-                
-                for r in range(max(0, row-1),min(row_len, row+2)):
-                    for c in range(max(0, col-1), min(col_len, col+2)):
-                        count += 1
-                        summ += img[r][c]
-                new[row][col] = summ//count
-
-        return new        
