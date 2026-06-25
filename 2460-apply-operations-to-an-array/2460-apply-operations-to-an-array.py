@@ -1,11 +1,18 @@
 class Solution:
     def applyOperations(self, nums: List[int]) -> List[int]:
+        
+        for operation in range(len(nums)-1):
+            if nums[operation] == nums[operation + 1]:
+                nums[operation] *= 2 
+                nums[operation + 1] = 0
+        
+        write = 0 
+        for read in range(len(nums)):
+            if nums[read] != 0:
+                nums[read], nums[write] = nums[write], nums[read]
+                write += 1 
+        return nums
 
-        for x in range(len(nums)-1):
-            if nums[x] == nums[x+1]:
-                nums[x] *= 2
-                nums[x+1] = 0 
+            
 
-        new = [x for x in nums if x != 0]
-        new.extend([0] * (len(nums)-len(new)) )
-        return new
+        
