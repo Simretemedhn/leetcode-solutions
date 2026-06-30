@@ -3,19 +3,18 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        count_0 = 0 
-        count_1 = 0
-        count_2 = 0 
-
-        for num in nums:
-            if num == 0: count_0 += 1
-            elif num == 1: count_1 += 1 
-            else: count_2 += 1 
-
-        for i in range(count_0):
-            nums[i] = 0
-        for i in range(count_0, count_0 + count_1):
-            nums[i] = 1 
-        for i in range(count_0 + count_1, count_0 + count_1 + count_2):
-            nums[i] = 2 
+        # counting sort 
+        write  = 0 
+        for read in range(len(nums)):
+            if nums[read] == 0:
+                nums[read], nums[write] = nums[write], nums[read]
+                write += 1 
+        for read in range(len(nums)):
+            if nums[read] == 1:
+                nums[read], nums[write] = nums[write], nums[read]
+                write += 1 
+        for read in range(len(nums)):
+            if nums[read] == 2:
+                nums[read], nums[write] = nums[write], nums[read]
+                write += 1       
         
