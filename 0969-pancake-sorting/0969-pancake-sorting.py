@@ -1,41 +1,30 @@
 class Solution:
     def pancakeSort(self, arr: List[int]) -> List[int]:
-        result = []
         n = len(arr)
+        
+        def do_swapping(k):
+            left = 0
+            right = k - 1
+            while left < right:
+                arr[left], arr[right] = arr[right], arr[left]
+                left += 1
+                right -= 1
+        
+        result = []
         
         for target in range(n, 0, -1):
-            ind = arr.index(target)
+            idx = arr.index(target)
             
-            if ind != target - 1:
-                if ind != 0:
-                    result.append(ind + 1)
-                    arr[:ind+1] = arr[:ind+1][::-1]
+            # If it's not already at the correct position
+            if idx != target - 1:
+                # If not at front, bring to front
+                if idx != 0:
+                    # FIXED: Use idx + 1, not idx - 1
+                    do_swapping(idx + 1)
+                    result.append(idx + 1)
                 
+                do_swapping(target)
                 result.append(target)
-                arr[:target] = arr[:target][::-1]
         
         return result
-        
-
-
-"""
-class Solution:
-    def pancakeSort(self, arr: List[int]) -> List[int]:
-
-        new = sorted(arr)
-
-        n = len(arr)
-        placed = n
-        output = []
-        for i in range(n-1, -1, -1):
-            ind = arr.index(new[i])
-            if ind != i:
-                output.append(ind+1)
-                arr[:ind+1] = arr[:ind+1][::-1]
-                output.append(placed-1)
-                arr[:placed+1] = arr[:ind+1][::-1]
-                placed -= 1
-            else:
-                placed -= 1
-        return output
-"""
+                
