@@ -1,20 +1,19 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        sliding_window = set()
-        maxx = 0 
-        left = 0
-
+        
+        left = 0 
+        mapp = {}
+        max_len = 0 
         for right in range(len(s)):
-
-            while s[right] in sliding_window:
-                sliding_window.remove(s[left])
-                left += 1
-
-            sliding_window.add(s[right])
-            maxx = max(maxx, right - left + 1)
-        return maxx
             
-            
+            while s[right] in mapp:
+                # we have to shrink 
 
-    
+                mapp[s[left]] -= 1 
+                if mapp[s[left]] == 0:
+                    del mapp[s[left]]
+                left += 1 
+            mapp[s[right]] = 1
+            max_len = max(max_len, right - left + 1)
+        return max_len
         
