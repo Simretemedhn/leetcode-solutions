@@ -1,26 +1,29 @@
 class Solution:
     def shiftingLetters(self, s: str, shifts: List[List[int]]) -> str:
-        n = len(s)
-        step = [0] * (n + 1) 
+        changes = [0] * (len(s) + 1)
         
-        for start, end, dire in shifts:
-            if dire == 1:
-                step[start] += 1
-                step[end + 1] -= 1
+        for start, end, direction in shifts:
+            if direction == 0:
+                changes[start] -= 1 
+                changes[end + 1] += 1 
             else:
-                step[start] -= 1
-                step[end + 1] += 1
+                changes[start] += 1
+                changes[end + 1] -= 1 
         
-        for i in range(1, n + 1):
-            step[i] += step[i-1]
+        for i in range(1, len(s) + 1):
+            changes[i] += changes[i-1]
         
         result = []
-        for i in range(n):
-            shift = step[i] % 26  
+        for i in range(len(s)):
+            char = s[i]
+            shift = changes[i] % 26  
             
-            new_char = chr((ord(s[i]) - ord('a') + shift) % 26 + ord('a'))
+            if 'a' <= char <= 'z':
+                new_char = chr((ord(char) - ord('a') + shift) % 26 + ord('a'))
+            elif 'A' <= char <= 'Z':
+                new_char = chr((ord(char) - ord('A') + shift) % 26 + ord('A'))
+            else:
+                new_char = char
             result.append(new_char)
-        
-        return ''.join(result) 
-
-        
+            
+        return ''.join(result)
