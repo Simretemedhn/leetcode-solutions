@@ -642,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [0969-pancake-sorting](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0969-pancake-sorting) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Simretemedhn/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
