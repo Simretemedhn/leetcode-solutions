@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0141-linked-list-cycle](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0202-happy-number) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
