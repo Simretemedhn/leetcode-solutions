@@ -3,21 +3,36 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
 class Solution:
     def removeNodes(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        
+        # we better first build an array from the given linked list then reverse it based on inceasing order while building linked list 
 
-        stack = []
+        array_Version = []   
         curr = head 
         while curr:
-            while stack and stack[-1] < curr.val:
-                stack.pop()
-            stack.append(curr.val)
+            array_Version.append(curr.val)   
             curr = curr.next 
-        print(stack)
-        new_final = None 
-        while stack:
-            val = stack.pop()
-            new_node = ListNode(val, new_final)
-            new_node.next = new_final
-            new_final = new_node 
-        return new_final
+        array_Version.reverse()
+
+        biggest = array_Version[0]
+        increasing_array = [biggest] 
+        for i in range(1, len(array_Version)):
+            if array_Version[i] >= biggest:
+                biggest = array_Version[i]
+                increasing_array.append(array_Version[i])
+        
+        increasing_array.reverse()
+
+
+
+        dummy = ListNode(increasing_array[0])
+        curr = dummy 
+
+        for i in range(1, len(increasing_array)):
+            next_elem = ListNode(increasing_array[i])
+            curr.next = next_elem
+            curr = next_elem 
+        return dummy 
+            
