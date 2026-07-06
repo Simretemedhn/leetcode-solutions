@@ -6,14 +6,13 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        
-        # brute force method 
-        hash_Set = set()
-        curr = head 
-        while curr:
-            if curr in hash_Set:
+        # using fast and slow pointer 
+
+        slow, fast = head, head 
+        while fast and fast.next:
+            slow = slow.next 
+            fast = fast.next.next 
+            if fast == slow:
                 return True 
-            else:
-                hash_Set.add(curr)
-            curr = curr.next 
+            pass
         return False 
