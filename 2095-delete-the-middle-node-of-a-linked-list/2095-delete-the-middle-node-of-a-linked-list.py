@@ -35,3 +35,17 @@ class Solution:
         current.next = current.next.next 
         
         return dummy
+
+# or 
+"""        # Middle index (0-based)
+        middle = n // 2
+        
+        # Second pass: find node before middle
+        curr = head
+        for _ in range(middle - 1):  # Stop at node before middle
+            curr = curr.next
+        
+        # Delete middle node
+        curr.next = curr.next.next
+        
+        return head"""
