@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0141-linked-list-cycle) |
