@@ -45,3 +45,36 @@ class Solution:
             total = (total + nextt[i] * prev[i] * arr[i]) % MOD
         
         return total
+
+
+""" or class Solution:
+    def sumSubarrayMins(self, arr: List[int]) -> int:
+        MOD = 10**9 + 7
+        n = len(arr)
+        
+        # Previous smaller element (strictly smaller)
+        prev = [-1] * n
+        stack = []
+        for i in range(n):
+            while stack and arr[stack[-1]] > arr[i]:
+                stack.pop()
+            prev[i] = stack[-1] if stack else -1
+            stack.append(i)
+        
+        # Next smaller or equal element
+        next_smaller = [n] * n
+        stack = []
+        for i in range(n - 1, -1, -1):
+            while stack and arr[stack[-1]] >= arr[i]:
+                stack.pop()
+            next_smaller[i] = stack[-1] if stack else n
+            stack.append(i)
+        
+        # Calculate total sum
+        total = 0
+        for i in range(n):
+            left = i - prev[i]
+            right = next_smaller[i] - i
+            total = (total + arr[i] * left * right) % MOD
+        
+        return total"""
