@@ -1,44 +1,45 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        # stack
-        # stay in the stack until a bigger element is found
+        n = len(nums2)
+        result = [-1] * len(nums1)
 
-        num_map = {n:i for i, n in enumerate(nums1)}
-        res = [-1] * len(nums1)    
 
-        stack = []    
-        for i in range(len(nums2)):
-            curr = nums2[i]
-            while stack and curr > stack[-1]:
-                val = stack.pop()
-                ind = num_map[val]
-                res[ind] = curr
+        mapp = {num: i for i, num in enumerate(nums1)}
 
-            if curr in num_map:
-                stack.append(curr)
-        return res 
-
-        #or 
-        num_map = {n:i for i, n in enumerate(nums1)}
-        res = [-1] * len(nums1)
-
-        for i in range(len(nums2)):
-            if nums2[i] not in num_map:
-                continue                        
-            for j in range(i+1, len(nums2)):
-                if nums2[j] > nums2[i]:
-                    ind = num_map[nums2[i]]
-                    res[ind] = nums2[j] 
-                    break 
-        return res 
-
-        # or 
+        # building decreasing stack for nnum2 
         stack = []
-        greater = defaultdict(lambda : -1)
+        for i in range(n-1, -1, -1):
 
-        for num in nums2:
-            while stack and stack[-1] < num:
-                greater[stack.pop()] = num
-            stack.append(num)
+            while stack and stack[-1] < nums2[i]:
+                stack.pop()
+            if nums2[i] in mapp:
+                index = mapp[nums2[i]]
+                if stack:
+                    result[index] = stack[-1] 
+
+            stack.append(nums2[i])
+        return result 
+
+"""
+class Solution:
+    def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        mapp = {num: i for i, num in enumerate(nums1)}
+        result = [-1] * len(nums1)
+        stack = []  
         
-        return [greater[num] for num in nums1]
+        for i in range(len(nums2) - 1, -1, -1):
+            current = nums2[i]
+            
+            # Remove elements that are smaller than current
+            while stack and stack[-1] < current:
+                stack.pop()
+            
+            # If current is in nums1, its next greater is stack[-1]
+            if current in mapp:
+                index = mapp[current]
+                result[index] = stack[-1] if stack else -1
+            
+            # Push current onto stack
+            stack.append(current)
+        
+        return result"""
