@@ -1,20 +1,7 @@
 class Solution:
     def countGoodNumbers(self, n: int) -> int:
         MOD = 10**9 + 7
+        even_positions = (n + 1) // 2  # positions 0,2,4,...
+        odd_positions = n // 2          # positions 1,3,5,...
         
-        def power(x, y):
-            if y == 0:
-                return 1
-            if y == 1:
-                return x % MOD
-            
-            half = power(x, y // 2)
-            if y % 2 == 0:
-                return (half * half) % MOD
-            else:
-                return (half * half * x) % MOD
-        
-        even_count = (n + 1) // 2
-        odd_count = n // 2
-        
-        return (power(5, even_count) * power(4, odd_count)) % MOD
+        return (pow(5, even_positions, MOD) * pow(4, odd_positions, MOD)) % MOD
