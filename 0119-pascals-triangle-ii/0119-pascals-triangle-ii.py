@@ -1,20 +1,43 @@
 class Solution:
     def getRow(self, rowIndex: int) -> List[int]:
-        memo = {}
+        cache = {}
         
-        def add(level, i):
-            if i == 0 or i == level:
-                return 1
+        def pascal(row: int, col: int) -> int:
+            if (row, col) in cache:
+                return cache[(row, col)]
             
-            if (level, i) in memo:
-                return memo[(level, i)]
+            if col == 0 or col == row:
+                result = 1
+            elif row <= 1:
+                result = 1
+            else:
+                result = pascal(row - 1, col - 1) + pascal(row - 1, col)
             
-            result = add(level - 1, i - 1) + add(level - 1, i)
-            memo[(level, i)] = result
+            cache[(row, col)] = result
             return result
         
-        res = []
+        result = []
         for i in range(rowIndex + 1):
-            res.append(add(rowIndex, i))
+            result.append(pascal(rowIndex, i))
         
-        return res
+        return result
+
+"""first trial 
+class Solution:
+    def getRow(self, rowIndex: int) -> List[int]:
+
+        def rowI(row, col):
+            if row <= 1:
+                return 1 
+            if col == 0 or col == row:
+                return 1 
+            else:
+                return rowI(row - 1, col - 1) + rowI(row - 1, col)
+        
+
+        result = []
+        for i in range(rowIndex + 1):
+            num = rowI(rowIndex, i)
+            result.append(num)
+        
+        return result """
