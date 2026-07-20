@@ -1,7 +1,7 @@
 class Solution:
     def getRow(self, rowIndex: int) -> List[int]:
         cache = {}
-        
+
         def pascal(row: int, col: int) -> int:
             if (row, col) in cache:
                 return cache[(row, col)]
