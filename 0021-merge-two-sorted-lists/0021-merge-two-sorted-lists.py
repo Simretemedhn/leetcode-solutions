@@ -2,25 +2,18 @@
 # class ListNode:
 #     def __init__(self, val=0, next=None):
 #         self.val = val
-#         self.next = next
+#         self.next = next            
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        # Base cases
+        if not list1:
+            return list2
+        if not list2:
+            return list1
         
-        def merge(node1, node2, incoming):
-            if not node1:
-                incoming.next = node2
-            elif not node2:
-                incoming.next = node1 
-            else:
-                if node1.val < node2.val:
-                    incoming.next = node1
-                    merge(node1.next, node2, incoming.next)
-                else:
-                    incoming.next = node2 
-                    merge(node1, node2.next, incoming.next)
-                
-        dummy = ListNode(0)
-        final = dummy
-        merge(list1, list2, final)
-        return dummy.next 
-            
+        if list1.val <= list2.val:
+            list1.next = self.mergeTwoLists(list1.next, list2)
+            return list1
+        else:
+            list2.next = self.mergeTwoLists(list1, list2.next)
+            return list2
