@@ -3,23 +3,14 @@
 #     def __init__(self, val=0, left=None, right=None):
 #         self.val = val
 #         self.left = left
-#         self.right = right
-
+#         self.right = right    
 class Solution:
     def searchBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
         if not root:
             return None 
         if root.val == val:
             return root 
-        
-        # Search left
-        left_result = self.searchBST(root.left, val)
-        if left_result:
-            return left_result
-        
-        # Search right
-        right_result = self.searchBST(root.right, val)
-        if right_result:
-            return right_result
-        
-        return None
+        elif val < root.val:
+            return self.searchBST(root.left, val)  # Go left
+        else:
+            return self.searchBST(root.right, val)  # Go right
