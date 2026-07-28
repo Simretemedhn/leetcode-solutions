@@ -1,12 +1,14 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        if n == 1:
-            return 1
-        if n == 2:
-            return 2
-        collec = [1, 2]
-        for x in range(3, n+1):
-            collec.append(collec[-2] + collec[-1])
-            
-        return collec[-1]
+        cache = {}
         
+        def climb(n):
+            if n <= 2:
+                return n
+            elif n in cache:
+                return cache[n]
+            else:
+                answer = climb(n-1) + climb(n-2)
+                cache[n] = answer 
+                return answer 
+        return climb(n)
