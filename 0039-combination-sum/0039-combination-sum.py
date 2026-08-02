@@ -7,7 +7,8 @@ class Solution:
             if sum(path) == target:
                 res.append(path[::])
                 return 
-
+            if sum(path) > target:
+                return  #prunning 
             for i in range(start, len(candidates)):
                 if sum(path) + candidates[i] > target:
                     break
