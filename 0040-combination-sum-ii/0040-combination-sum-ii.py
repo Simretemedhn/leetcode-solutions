@@ -1,27 +1,5 @@
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
-        res, sol = [], []
-
-        def backtrack(start):
-            if sum(sol) == target:
-                res.append(sol[::])
-                return 
-            
-            if sum(sol) > target:
-                return 
-            
-            for i in range(start, len(candidates)):
-                if sum(path) + candidates[i] > target:
-                    break 
-                path.append(candidates[i])
-                backtrack(i + 1)
-                path.pop()
-        backtrack(0)
-        return res 
-
-
-class Solution:
-    def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
         res = []
         sol = [] 
         candidates.sort()  
