@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Simretemedhn/leetcode-solutions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
