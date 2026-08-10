@@ -952,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0690-employee-importance) |
@@ -980,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -1013,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -1036,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Simretemedhn/leetcode-solutions/tree/master/0695-max-area-of-island) |
